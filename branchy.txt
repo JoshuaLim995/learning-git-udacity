@@ -1,5 +1,0 @@
-#display log in oneline and graph form for baranches (master, easy-mode, coins)
-git log --graph --oneline easy-mode coins master
-
-#opens the new made branch in one line
-git checkout -b new_branch_name

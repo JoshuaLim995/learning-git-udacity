@@ -5,8 +5,5 @@ git log --graph --oneline easy-mode coins master
 git checkout -b new_branch_name
 
 
-add master
-
-
-add branchy 
-
+#display out number of commit made in log
+git log -n 1
